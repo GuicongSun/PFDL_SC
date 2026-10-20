@@ -28,9 +28,9 @@ torchvision==0.16.1
 
 ## Datasets
 A total of 15 real-world datasets, the dataset used for privacy attacks, and the dataset for batch effect correction will be provided after the paper is accepted.
-The 15 real-world datasets are available from https://doi.org/10.5281/zenodo.15272789. 
-The 5 multi-batch datasets for batch effect correction are available from https://doi.org/10.5281/zenodo.20267318. 
-The 10 patient datasets for privacy attack simulations are available from https://doi.org/10.5281/zenodo.20267318.
++ The 15 real-world datasets are available from https://doi.org/10.5281/zenodo.15272789. 
++ The 5 multi-batch datasets for batch effect correction are available from https://doi.org/10.5281/zenodo.20267318. 
++ The 10 patient datasets for privacy attack simulations are available from https://doi.org/10.5281/zenodo.20267318.
 
 ## Files Description
 + `/Application`: examples of applying PPML-Omics, users can eaisy modify based on it to meet their own requirements
